@@ -2,7 +2,8 @@ Visual Mouse Helper
 ===================
 
 ![Sample screencast][gif]
-Visual Mouse Helper are two little filled circled that follows the mouse and stays on top
+
+Visual Mouse Helper are two little filled circles that follows the mouse and stays on top
 of any application whatever it happens.
 
 You can get the last release from here: [download][bin]
