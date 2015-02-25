@@ -19,7 +19,7 @@ Purpose?
 
 A friend of mine has some visual problems and he has some problems trying to follow the 
 mouse pointer on the screen. So this little application tries to help to fight that problem
-by trying to draw some simple figures which stand out on the screen, so the person with
+by drawing some simple figures which stand out on the screen, so the person with
 such problems quickly may find the cursor.
 
 I release it just hoping it will be helpful to other people with similar problems.
