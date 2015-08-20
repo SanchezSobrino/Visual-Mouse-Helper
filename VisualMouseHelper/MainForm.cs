@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
+using Microsoft;
 
 namespace VisualMouseHelper
 {
@@ -18,6 +14,16 @@ namespace VisualMouseHelper
         private SolidBrush brush2;
         private Point coords;
         private bool in_settings;
+
+        protected override CreateParams CreateParams
+        {
+            get
+            {
+                CreateParams baseParams = base.CreateParams;
+                baseParams.ExStyle |= (int)(0x00080000 | 0x08000000 | 0x00000080 | 0x00000020);
+                return baseParams;
+            }
+        }
 
         public MainForm()
         {
