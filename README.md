@@ -6,7 +6,7 @@ Visual Mouse Helper
 Visual Mouse Helper are two little filled circles that follows the mouse and stays on top
 of any application whatever it happens.
 
-You can get the last release from here: [download][bin]
+You can get the last installer from here: [download][bin]
 
 Settings
 ========
@@ -38,4 +38,4 @@ License
 Full text can be found at the [LICENSE file](https://raw.githubusercontent.com/SanchezSobrino/Visual-Mouse-Helper/master/LICENSE)
 
 [gif]: https://raw.githubusercontent.com/SanchezSobrino/Visual-Mouse-Helper/master/sample.gif "Sample screencast"
-[bin]: https://raw.githubusercontent.com/SanchezSobrino/Visual-Mouse-Helper/master/VMH_Release.zip
+[bin]: https://github.com/SanchezSobrino/Visual-Mouse-Helper/releases
