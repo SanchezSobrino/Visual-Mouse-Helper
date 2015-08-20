@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualMouseHelper", "VisualMouseHelper\VisualMouseHelper.csproj", "{EDB38666-3B47-4F52-9005-CCE1FC72F15E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{6C931668-5C0D-4B08-B7D4-1E5CA439C4F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{EDB38666-3B47-4F52-9005-CCE1FC72F15E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDB38666-3B47-4F52-9005-CCE1FC72F15E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDB38666-3B47-4F52-9005-CCE1FC72F15E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C931668-5C0D-4B08-B7D4-1E5CA439C4F6}.Debug|Any CPU.ActiveCfg = Debug
+		{6C931668-5C0D-4B08-B7D4-1E5CA439C4F6}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
